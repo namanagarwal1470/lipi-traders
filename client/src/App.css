@@ -1,0 +1,24 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  background-color: #FAF9FB;
+}
+
+.buttonDo a {
+  background-color: #6250a6;
+  color: white;
+  padding: 10px;
+}
+
+.MuiPaper-root {
+  background-color: #FAF9FB;
+  box-shadow: none;
+}
+
+.MuiPaper-elevation1 {
+  box-shadow: none;
+}
+
+.makeStyles-AppBar-1 {
+  background-color: #6250A6 !important;
+}
